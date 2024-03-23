@@ -3,9 +3,9 @@
 
 - 🔭 I'm currently working on both private and open-source tools to enhance security
 
-- 🌱 I’m currently learning **c , c++ , js**
+- 🌱 I'm currently learning C, C++, and JavaScript
 
-- 💬 Ask me about **methodology of hacker**
+- 💬 Ask me about the methodology of hackers
 
 - 📫 How to reach me **zures001@gmail.com**
 
