@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zures</h1>
 <h3 align="center">i'm a student in cybersecurity</h3>
 
-- 🔭 I’m currently working on **private and also open tools for more security**
+- 🔭 I'm currently working on both private and open-source tools to enhance security**
 
 - 🌱 I’m currently learning **c , c++ , js**
 
