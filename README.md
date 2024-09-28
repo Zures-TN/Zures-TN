@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning C, C++, and JavaScript
 
-- 💬 Ask me about the methodology of hackers
+- 💬 Ask me about the methodology of pentesting
 
 - 📫 How to reach me **zures001@gmail.com**
 
