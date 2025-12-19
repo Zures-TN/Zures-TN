@@ -1,76 +1,35 @@
-<h1 align="center">🛡️ Security Researcher & Developer</h1>
+<h1 align="center">🛡️ Security Researcher & Penetration Tester</h1>
 
-###
-
-<p align="center">Full-stack developer & certified penetration tester | eJPT & eWPT certified | Building offensive security tools & ethical hacking projects</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/eWPT-Certified-success?style=flat-square&logo=hackaday" alt="eWPT"/>
+  <img src="https://img.shields.io/badge/eJPT-Certified-success?style=flat-square&logo=hackaday" alt="eJPT"/>
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="60" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,docker,git,qt" height="40" alt="tech stack"  />
 </div>
 
 ###
 
-## 🎯 Focus Areas
-
-- **Penetration Testing:** Web application security, API testing, vulnerability assessment
-- **Tool Development:** Building custom security tools in Python & C++
-- **Database Security:** Oracle 11g administration and secure application development
-- **Network Security:** Enumeration, scanning, and exploitation techniques
-
-###
-
-## 🔐 Current Projects
-
-- 🛠️ Custom vulnerability scanners and reconnaissance tools
-- 🔍 Web application penetration testing utilities
-- 📊 Security automation scripts for threat detection
-- 🎓 CTF challenges and write-ups
-
-###
-
-## 📜 Certifications
-
-- ✅ **eWPT** - eLearnSecurity Web Application Penetration Tester
-- ✅ **eJPT** - eLearnSecurity Junior Penetration Tester
-- 🎯 Continuously learning: OWASP Top 10, privilege escalation, and exploit development
-
-###
-
-## 🏆 Platforms & Practice
-
-- 🔬 Active on HackTheBox, TryHackMe, and CTF competitions
-- 📝 Security research and vulnerability assessments
-- 💻 Contributing to open-source security tools
+<p align="center">
+  Full-stack developer | Web application security | Building offensive security tools
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
+  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"/></a>
+  <a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zures-TN&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Zures-TN&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zures-TN&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="stats"/>
+  <img src="https://streak-stats.demolab.com?user=Zures-TN&theme=radical&hide_border=true" height="165" alt="streak"/>
 </div>
 
 ###
@@ -78,14 +37,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zures-TN/Zures-TN/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zures-TN/Zures-TN/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zures-TN/Zures-TN/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Zures-TN/Zures-TN/output/github-contribution-grid-snake.svg">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
+
 ###
 
-<p align="center">⚠️ All tools and projects are for educational purposes and authorized testing only</p>
-
+<p align="center">
+  <sub>⚠️ Educational purposes and authorized testing only</sub>
+</p>
