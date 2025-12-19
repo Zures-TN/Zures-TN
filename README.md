@@ -20,7 +20,9 @@
 ###
 
 <div align="center">
-  <a href="_zures"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/></a>
+  <a href="https://discord.com/users/421374269868605471">
+  <img src="https://img.shields.io/badge/Discord-_zures-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
+</a>
 </div>
 
 ###
