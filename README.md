@@ -23,6 +23,10 @@
   <a href="https://discord.com/users/421374269868605471">
   <img src="https://img.shields.io/badge/Discord-_zures-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
 </a>
+  <a href="https://discord.com/users/421374269868605471">
+  <img src="https://lanyard.cnrad.dev/api/421374269868605471" alt="Discord Status"/>
+</a>
+
 </div>
 
 ###
